@@ -3,7 +3,9 @@
 Este é um projetoAgência de desenvolvimento de sistemas como atividade de um curso de Bootstrap - 5.
 
 ##
-![](/imagens/tela-1.png)
+![](/img/tela-1.png)
+![](/img/tela-2.png)
+![](/img/tela-3.png)
 
 ## Ambiente de Desenvolvimento
 
