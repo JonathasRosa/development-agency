@@ -1,6 +1,6 @@
 # Development-agency
 
-Este é um projetoAgência de desenvolvimento de sistemas como atividade de um curso de Bootstrap - 5.
+Este é um projeto de uma Agência de desenvolvimento de sistemas como atividade de um curso de Bootstrap - 5.
 
 ##
 ![](/img/tela-1.png)
